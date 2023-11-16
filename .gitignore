@@ -5,6 +5,9 @@
 *.dylib
 .idea/
 
+go.sum
+go.mod
+
 # Test binary, build with `go test -c`
 *.test
 
